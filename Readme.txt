@@ -1,3 +1,5 @@
+Fecebook meme classification
+
 The goal of the project is to filter out negative, offensive, or anger-inducing memes that appear on social media. The model is trained on a dataset containing 4,000 images — 2,000 labeled as positive and 2,000 as negative.
 
 The system is built using three main components:
